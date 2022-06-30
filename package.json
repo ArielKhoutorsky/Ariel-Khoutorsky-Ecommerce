@@ -11,7 +11,14 @@
     "start": "node backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielKhoutorsky/Ariel-Khoutorsky-Ecommerce.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/ArielKhoutorsky/Ariel-Khoutorsky-Ecommerce/issues"
+  }
 }
