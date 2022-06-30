@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "name": "ariel_khoutorsky_ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../ecommerce && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
