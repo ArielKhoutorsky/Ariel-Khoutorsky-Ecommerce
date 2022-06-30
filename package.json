@@ -2,7 +2,7 @@
   "dependencies": {
     "jsonwebtoken": "^8.5.1"
   },
-  "name": "ariel_khoutorsky_ecommerce",
+  "name": "ariel-khoutorsky-ecommerce",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
