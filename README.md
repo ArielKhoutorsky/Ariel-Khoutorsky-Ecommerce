@@ -1,5 +1,5 @@
 # Ariel-Khoutorsky-Ecommerce
-Website : https://ariel-khoutorsky-shoppera.herokuapp.com/
+Website: https://ariel-khoutorsky-shoppera.herokuapp.com/
 
 - Created a Full Stack ecommerce website with user authentication, cart information and order history
 - Developped various React.js screens and reusable components for the frontend
