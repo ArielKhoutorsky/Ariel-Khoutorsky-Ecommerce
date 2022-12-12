@@ -20,5 +20,8 @@
   "description": "",
   "bugs": {
     "url": "https://github.com/ArielKhoutorsky/Ariel-Khoutorsky-Ecommerce/issues"
+  },
+  "engines": {
+    "node": "16.15"
   }
 }
